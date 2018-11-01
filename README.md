@@ -9,4 +9,4 @@ douban movie by wechat :it was written when i have finished learning  Mini Progr
 
 
 
-There  also be one blog https://blog.csdn.net/ClaireEchizenKagura ,recording my views about someting ,especially for programming.Also ,it is only  for  fun
+There  also be one blog https://blog.csdn.net/ClaireEchizenKagura ,recording my views about something ,especially for programming.Also ,it is only  for  fun
