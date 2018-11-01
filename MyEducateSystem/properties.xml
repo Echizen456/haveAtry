@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databases>
+	<database name="SQL Server">
+		<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+		<protocal>jdbc:sqlserver://127.0.0.1:1433;DatabaseName=</protocal>
+		<dbUrl>educateSystem</dbUrl>
+	</database>
+</databases>

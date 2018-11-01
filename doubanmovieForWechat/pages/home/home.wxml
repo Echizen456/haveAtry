@@ -1,0 +1,21 @@
+<view wx:for="{{list}}" class ="mod-list">
+	<view class ="left">
+		<image src="{{item.images.large}}"/> 
+	</view>
+	<view class ="right">
+      <view class="row">
+        {{item.original_title}}  {{item.year}}
+      </view>
+       <view class="row">
+        评分： {{item.rating.average}}     
+      </view>
+       <view class="row">
+         <view>导演：</view> <view wx:for="{{item.directors}}" wx:for-item="d">
+            {{d.name }}    </view>     
+      </view>
+       <view class="row">
+        <view>主演：</view> <view wx:for="{{item.casts}}" wx:for-item="c">
+            {{c.name }}  </view>        
+      </view>
+	</view>
+</view>
